@@ -25,6 +25,7 @@ Recreate the mock up shown.
 | **Level 3** | Uses all box model properties. Looks very close to the mock up. |
 | **Level 4** | Exact copy of the mock up. All box model properties used to achieve an exact match. |
 
+I think I will get a 4 on this.
 ---
 
 ## LG 6.1 Rubric — CSS Selectors
